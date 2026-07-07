@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/somnath202/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/somnath202/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/somnath202/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
