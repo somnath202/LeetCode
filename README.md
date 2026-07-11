@@ -105,11 +105,13 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/somnath202/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/somnath202/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/somnath202/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/somnath202/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -149,6 +151,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/somnath202/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/somnath202/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/somnath202/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
