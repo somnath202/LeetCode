@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -42,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/somnath202/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -86,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -93,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/somnath202/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/somnath202/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
