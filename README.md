@@ -126,6 +126,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/somnath202/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0404-sum-of-left-leaves](https://github.com/somnath202/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/somnath202/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -169,6 +170,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/somnath202/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/somnath202/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -198,6 +201,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/somnath202/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
