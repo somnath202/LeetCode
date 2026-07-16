@@ -11,20 +11,16 @@
  */
 class Solution {
 public:
-    int  help(TreeNode* root , int low,int high , int & ans){
-        if(root == NULL) return 0;
-         int l = help(root->left,low,high,ans);
-         int r = help(root->right,low,high,ans);
-         cout<<r<<" ";
-         if(l >= low && l <= high) ans +=l ;
-         if(r >= low && r <= high) ans += r ;
-        return root->val ;
+    void  help(TreeNode* root , int low,int high , int & ans){
+        if(root == NULL) return ;
+        if(root->val >= low && root->val <= high) ans+= root->val ;
+        help(root->left,low,high,ans);
+        help(root->right,low,high,ans);
+         
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
         int ans = 0 ;
-        if(root==NULL) return 0 ;
-        if(root->val >= low && root->val <= high) ans+= root->val ;
-        int x = help(root,low,high,ans);
+        help(root,low,high,ans);
         return ans ;
     }
 };
