@@ -29,6 +29,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0303-range-sum-query-immutable](https://github.com/somnath202/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/somnath202/LeetCode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/somnath202/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/somnath202/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/somnath202/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/somnath202/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/somnath202/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
