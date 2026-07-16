@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
+| [0303-range-sum-query-immutable](https://github.com/somnath202/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -70,6 +71,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/somnath202/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/somnath202/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/somnath202/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/somnath202/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -245,4 +247,8 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/somnath202/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/somnath202/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/somnath202/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/somnath202/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
