@@ -9,6 +9,7 @@
 | [1952-three-divisors](https://github.com/somnath202/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/somnath202/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/somnath202/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2582-pass-the-pillow](https://github.com/somnath202/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3312-sorted-gcd-pair-queries](https://github.com/somnath202/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/somnath202/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somnath202/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -260,6 +261,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/somnath202/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/somnath202/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2582-pass-the-pillow](https://github.com/somnath202/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/somnath202/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
