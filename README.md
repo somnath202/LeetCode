@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/somnath202/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1952-three-divisors](https://github.com/somnath202/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/somnath202/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/somnath202/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -39,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/somnath202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/somnath202/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/somnath202/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -122,6 +124,7 @@
 | [0056-merge-intervals](https://github.com/somnath202/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/somnath202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/somnath202/LeetCode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
