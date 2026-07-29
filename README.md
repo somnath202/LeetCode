@@ -48,6 +48,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/somnath202/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/somnath202/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -189,6 +190,7 @@
 | [0733-flood-fill](https://github.com/somnath202/LeetCode/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/somnath202/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -199,6 +201,7 @@
 | [0130-surrounded-regions](https://github.com/somnath202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/somnath202/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/somnath202/LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/somnath202/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -217,6 +220,7 @@
 | [0542-01-matrix](https://github.com/somnath202/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/somnath202/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/somnath202/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1765-map-of-highest-peak](https://github.com/somnath202/LeetCode/tree/master/1765-map-of-highest-peak) |
@@ -264,6 +268,7 @@
 | [0733-flood-fill](https://github.com/somnath202/LeetCode/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/somnath202/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
