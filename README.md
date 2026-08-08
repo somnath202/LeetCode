@@ -71,6 +71,7 @@
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somnath202/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/somnath202/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/somnath202/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/somnath202/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/somnath202/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/somnath202/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/somnath202/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -232,6 +234,7 @@
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/somnath202/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/somnath202/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somnath202/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -246,6 +249,7 @@
 | [0547-number-of-provinces](https://github.com/somnath202/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/somnath202/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somnath202/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -254,6 +258,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somnath202/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/somnath202/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/somnath202/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -269,6 +274,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/somnath202/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/somnath202/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/somnath202/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/somnath202/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -319,6 +325,7 @@
 | [0938-range-sum-of-bst](https://github.com/somnath202/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/somnath202/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somnath202/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/somnath202/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -460,4 +467,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/somnath202/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
