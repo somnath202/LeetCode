@@ -40,6 +40,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/somnath202/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/somnath202/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/somnath202/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/somnath202/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -370,6 +371,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/somnath202/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/somnath202/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somnath202/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/somnath202/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/somnath202/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/somnath202/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/somnath202/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -381,6 +383,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/somnath202/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/somnath202/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/somnath202/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/somnath202/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/somnath202/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -389,6 +392,7 @@
 | [0207-course-schedule](https://github.com/somnath202/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/somnath202/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/somnath202/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/somnath202/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/somnath202/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
@@ -491,6 +495,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/somnath202/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/somnath202/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Nim Game
 |  |
 | ------- |
