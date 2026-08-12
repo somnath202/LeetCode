@@ -82,6 +82,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/somnath202/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/somnath202/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/somnath202/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/somnath202/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/somnath202/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/somnath202/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -104,6 +105,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/somnath202/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/somnath202/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/somnath202/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/somnath202/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -207,6 +209,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/somnath202/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/somnath202/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
