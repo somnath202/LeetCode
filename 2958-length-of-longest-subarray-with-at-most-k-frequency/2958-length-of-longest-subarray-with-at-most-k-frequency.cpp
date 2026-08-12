@@ -4,7 +4,7 @@ public:
         const int n=nums.size();
         int cnt=0;
         unordered_map<int, int> freq;//1 <= nums[i] <= 10^9
-        freq.reserve(n);
+        // freq.reserve(n);
         for (int l=0, r=0; r<n; r++){
             int x=nums[r];
             auto it=freq.find(x);
