@@ -33,6 +33,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/somnath202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/somnath202/LeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/somnath202/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/somnath202/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -56,6 +57,7 @@
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/somnath202/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/somnath202/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/somnath202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/somnath202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/somnath202/LeetCode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/somnath202/LeetCode/tree/master/0303-range-sum-query-immutable) |
