@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/somnath202/LeetCode/tree/master/0056-merge-intervals) |
@@ -168,6 +169,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/somnath202/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -429,6 +431,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/somnath202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0541-reverse-string-ii](https://github.com/somnath202/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/somnath202/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
