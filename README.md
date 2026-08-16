@@ -13,6 +13,7 @@
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
 | [1952-three-divisors](https://github.com/somnath202/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/somnath202/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/somnath202/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2582-pass-the-pillow](https://github.com/somnath202/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/somnath202/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -86,6 +87,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/somnath202/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/somnath202/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/somnath202/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/somnath202/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -141,6 +143,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/somnath202/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/somnath202/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/somnath202/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -172,6 +175,7 @@
 | [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/somnath202/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/somnath202/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/somnath202/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -485,16 +489,19 @@
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -521,6 +528,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
