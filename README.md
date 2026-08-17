@@ -11,6 +11,7 @@
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/somnath202/LeetCode/tree/master/1563-stone-game-v) |
 | [1952-three-divisors](https://github.com/somnath202/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/somnath202/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
@@ -43,6 +44,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/somnath202/LeetCode/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/somnath202/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/somnath202/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/somnath202/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -82,6 +84,7 @@
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somnath202/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/somnath202/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/somnath202/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/somnath202/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -489,6 +492,7 @@
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/somnath202/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/somnath202/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
