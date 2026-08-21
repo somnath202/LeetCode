@@ -221,6 +221,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/somnath202/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/somnath202/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/somnath202/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/somnath202/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/somnath202/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/somnath202/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -328,6 +329,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/somnath202/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -432,6 +434,7 @@
 | [1260-shift-2d-grid](https://github.com/somnath202/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/somnath202/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2582-pass-the-pillow](https://github.com/somnath202/LeetCode/tree/master/2582-pass-the-pillow) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/somnath202/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/somnath202/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/somnath202/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
