@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/somnath202/LeetCode/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/somnath202/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -442,6 +443,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/somnath202/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/somnath202/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/somnath202/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/somnath202/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
