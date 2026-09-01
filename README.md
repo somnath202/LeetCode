@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/somnath202/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/somnath202/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/somnath202/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -65,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/somnath202/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/somnath202/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/somnath202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somnath202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/somnath202/LeetCode/tree/master/0130-surrounded-regions) |
