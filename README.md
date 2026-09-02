@@ -77,6 +77,7 @@
 | [0152-maximum-product-subarray](https://github.com/somnath202/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/somnath202/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/somnath202/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/somnath202/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/somnath202/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/somnath202/LeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/somnath202/LeetCode/tree/master/0542-01-matrix) |
@@ -136,6 +137,7 @@
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/somnath202/LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/somnath202/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/somnath202/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/somnath202/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -269,6 +271,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/somnath202/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/somnath202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/somnath202/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
