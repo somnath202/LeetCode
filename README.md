@@ -79,6 +79,7 @@
 | [0542-01-matrix](https://github.com/somnath202/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/somnath202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/somnath202/LeetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
@@ -262,6 +263,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/somnath202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/somnath202/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/somnath202/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
