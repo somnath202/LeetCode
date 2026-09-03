@@ -608,4 +608,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/somnath202/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/somnath202/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
