@@ -50,6 +50,7 @@
 | [0486-predict-the-winner](https://github.com/somnath202/LeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/somnath202/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/somnath202/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/somnath202/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
@@ -88,6 +89,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/somnath202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/somnath202/LeetCode/tree/master/0733-flood-fill) |
+| [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -146,6 +148,7 @@
 | [0219-contains-duplicate-ii](https://github.com/somnath202/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/somnath202/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/somnath202/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -235,6 +238,7 @@
 | [0217-contains-duplicate](https://github.com/somnath202/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somnath202/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somnath202/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -257,6 +261,7 @@
 | [0392-is-subsequence](https://github.com/somnath202/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/somnath202/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/somnath202/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/somnath202/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -295,6 +300,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/somnath202/LeetCode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/somnath202/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/somnath202/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -624,4 +630,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/somnath202/LeetCode/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/somnath202/LeetCode/tree/master/0177-nth-highest-salary) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
