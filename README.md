@@ -45,6 +45,7 @@
 | [0115-distinct-subsequences](https://github.com/somnath202/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somnath202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somnath202/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/somnath202/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/somnath202/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/somnath202/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/somnath202/LeetCode/tree/master/0392-is-subsequence) |
@@ -264,6 +265,7 @@
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/somnath202/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/somnath202/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/somnath202/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/somnath202/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/somnath202/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/somnath202/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -621,6 +623,7 @@
 | [0046-permutations](https://github.com/somnath202/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/somnath202/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/somnath202/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/somnath202/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/somnath202/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dijkstra's Algorithm
 |  |
