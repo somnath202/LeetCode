@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void help(vector<int>nums , int i , vector<int>&arr , vector<vector<int>>& ans , vector<int>used){
+    void help(vector<int>nums , int i , vector<int>&arr , vector<vector<int>>& ans , vector<int>& used){
         if(arr.size() == nums.size()){
             ans.push_back(arr);
             return ;
