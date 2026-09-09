@@ -99,6 +99,7 @@
 | [0733-flood-fill](https://github.com/somnath202/LeetCode/tree/master/0733-flood-fill) |
 | [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
+| [0942-di-string-match](https://github.com/somnath202/LeetCode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/somnath202/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/somnath202/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0942-di-string-match](https://github.com/somnath202/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/somnath202/LeetCode/tree/master/1927-sum-game) |
@@ -273,6 +275,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/somnath202/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/somnath202/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [0942-di-string-match](https://github.com/somnath202/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/somnath202/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -534,6 +537,7 @@
 | [0392-is-subsequence](https://github.com/somnath202/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/somnath202/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/somnath202/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0942-di-string-match](https://github.com/somnath202/LeetCode/tree/master/0942-di-string-match) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/somnath202/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/somnath202/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/somnath202/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
