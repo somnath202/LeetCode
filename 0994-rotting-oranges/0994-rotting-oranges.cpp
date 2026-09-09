@@ -1,53 +1,42 @@
 class Solution {
-    
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size() ;
-        queue<pair<pair<int,int>,int>>q;
-        int count = 0  , cnt = 0;
-        int vis[n][m];
+        int n = grid.size() , m = grid[0].size();
+        int minutes = 0 ;
+        queue<pair<int,pair<int,int>>>q;
+        vector<vector<int>>vis(n,vector<int>(m,0));
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
-                if(grid[i][j] == 2 ) {
-                    vis[i][j] = 2 ;
-                    q.push({{i,j},0});
-                }else vis[i][j] = 0 ;
-                if(grid[i][j] == 1) count++;
-            }
-        }
-
-        int delrow[] = {-1, 0, 1, 0};
-        int delcol[] = {0, 1, 0, -1};
-        
-        int time = 0 ;
-
-        while(!q.empty()){
-            int r = q.front().first.first ;
-            int c = q.front().first.second ;
-            int t = q.front().second ;
-            q.pop();
-            time = max(time,t);
-            for(int i = 0 ; i < 4 ; i++){
-                int nrow = r+delrow[i];
-                int ncol = c + delcol[i];
-                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1){
-                    q.push({{nrow,ncol},t+1});
-                    vis[nrow][ncol] = 2 ;
-                    cnt++;
+                if(grid[i][j] == 2){
+                    vis[i][j] = 1 ;
+                    q.push({0,{i,j}});
                 }
-
+                if(grid[i][j] == 0) vis[i][j] = -1 ;
             }
         }
-        // for(int i = 0 ; i < n ; i++){
-        //     for(int j = 0 ; j < m ; j++) cout<<vis[i][j]<<" ";
-        //     cout<<endl; 
-        // }
-
-        if(count != cnt) return -1 ;
-
-        
-
-        return time;
+        int adjrow[] = {-1,0,1,0};
+        int adjcol[] = {0,1,0,-1};
+        while(!q.empty()){
+            int minute = q.front().first ;
+            int r = q.front().second.first;
+            int c = q.front().second.second ;
+            q.pop();
+            for(int i = 0 ; i < 4 ; i++){
+                int newrow = r + adjrow[i];
+                int newcol = c + adjcol[i];
+                if(newrow < n && newrow >= 0 && newcol < m && newcol >= 0 && vis[newrow][newcol] == 0 && grid[newrow][newcol] == 1){
+                    q.push({minute+1,{newrow,newcol}});
+                    grid[newrow][newcol] = 2 ;
+                    vis[newrow][newcol] = 1 ;
+                    minutes = max(minutes,(minute+1));
+                 }
+            }
+        }
+        for(auto it : grid){
+            for(auto i : it){
+                if(i == 1) return -1 ;
+            }
+        }
+        return minutes ;
     }
 };
