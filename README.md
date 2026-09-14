@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/somnath202/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/somnath202/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/somnath202/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/somnath202/LeetCode/tree/master/1510-stone-game-iv) |
@@ -687,5 +688,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/somnath202/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/somnath202/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
