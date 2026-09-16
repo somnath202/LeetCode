@@ -9,12 +9,8 @@ public:
             int a = nums[i];
             if(mpp[a] != 3) continue ;
             for(int j = i+1 ; j < n ; j++){
-                if(nums[j] == a){
-                    for(int k = j+1 ; k < n ; k++){
-                        if(nums[k] == a){
-                            if(k-j == j-i) count++;
-                        }
-                    }
+                if(nums[j] == a && 2*j-i < n){
+                    if(nums[2*j-i] == a) count++;
                 }
             }
         }
