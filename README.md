@@ -702,4 +702,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/somnath202/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/somnath202/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/somnath202/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
