@@ -78,6 +78,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/somnath202/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/somnath202/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/somnath202/LeetCode/tree/master/0039-combination-sum) |
@@ -163,6 +164,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/somnath202/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/somnath202/LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/somnath202/LeetCode/tree/master/0217-contains-duplicate) |
