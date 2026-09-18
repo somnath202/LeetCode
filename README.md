@@ -81,6 +81,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/somnath202/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/somnath202/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/somnath202/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/somnath202/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/somnath202/LeetCode/tree/master/0046-permutations) |
@@ -575,6 +576,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/somnath202/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/somnath202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/somnath202/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/somnath202/LeetCode/tree/master/0541-reverse-string-ii) |
