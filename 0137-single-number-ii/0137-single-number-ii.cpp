@@ -6,10 +6,10 @@ public:
         // for(auto it : mpp ) if(it.second == 1) return it.first ;
         // return -1 ;
 
-        int ones = 0 , tows = 0 ;
+        int ones = 0 , twos = 0 ;
         for(auto it : nums){
-            ones ^= (it & ~tows) ;
-            tows ^= (it & ~ones);
+            ones ^= (it & ~twos) ;
+            twos ^= (it & ~ones);
         }
         return ones ;
     }
