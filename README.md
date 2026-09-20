@@ -45,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/somnath202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/somnath202/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -85,6 +86,7 @@
 | [0031-next-permutation](https://github.com/somnath202/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/somnath202/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/somnath202/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/somnath202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/somnath202/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
@@ -458,6 +460,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/somnath202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -598,6 +601,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/somnath202/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/somnath202/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/somnath202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/somnath202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/somnath202/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/somnath202/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -652,6 +656,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/somnath202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
