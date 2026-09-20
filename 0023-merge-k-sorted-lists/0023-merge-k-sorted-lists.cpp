@@ -1,41 +1,62 @@
 class Solution {
 private:
-    ListNode* merge(ListNode* list1, ListNode* list2) {
+    ListNode* merge(ListNode* lists1, ListNode* lists2) {
 
-        ListNode* dummy = new ListNode();
-        ListNode* tail = dummy;
+        auto temp1 = lists1;
+        auto temp2 = lists2;
 
-        while(list1 && list2) {
+        ListNode* ans = new ListNode();
+        auto dummy = ans;
 
-            if(list1->val <= list2->val) {
-                tail->next = list1;
-                list1 = list1->next;
+        while(temp1 != NULL && temp2 != NULL) {
+
+            if(temp1->val <= temp2->val) {
+
+                dummy->next = temp1;
+                dummy = dummy->next;
+
+                temp1 = temp1->next;
             }
             else {
-                tail->next = list2;
-                list2 = list2->next;
-            }
 
-            tail = tail->next;
+                dummy->next = temp2;
+                dummy = dummy->next;
+
+                temp2 = temp2->next;
+            }
         }
 
-        if(list1)
-            tail->next = list1;
-        else
-            tail->next = list2;
+        while(temp1 != NULL) {
 
-        return dummy->next;
+            dummy->next = temp1;
+            dummy = dummy->next;
+
+            temp1 = temp1->next;
+        }
+
+        while(temp2 != NULL) {
+
+            dummy->next = temp2;
+            dummy = dummy->next;
+
+            temp2 = temp2->next;
+        }
+
+        return ans->next;
     }
 
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
 
-        if(lists.empty())
+        int n = lists.size();
+
+        if(n == 0)
             return nullptr;
 
         ListNode* temp = lists[0];
 
-        for(int i = 1; i < lists.size(); i++) {
+        for(int i = 1; i < n; i++) {
+
             temp = merge(temp, lists[i]);
         }
 
