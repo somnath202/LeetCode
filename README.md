@@ -141,6 +141,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/somnath202/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2562-find-the-array-concatenation-value](https://github.com/somnath202/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/somnath202/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/somnath202/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/somnath202/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/somnath202/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -271,6 +272,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/somnath202/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/somnath202/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2592-maximize-greatness-of-an-array](https://github.com/somnath202/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/somnath202/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/somnath202/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/somnath202/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/somnath202/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -295,6 +297,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/somnath202/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/somnath202/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2592-maximize-greatness-of-an-array](https://github.com/somnath202/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/somnath202/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/somnath202/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/somnath202/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/somnath202/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
