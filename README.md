@@ -317,6 +317,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/somnath202/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/somnath202/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/somnath202/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2490-circular-sentence](https://github.com/somnath202/LeetCode/tree/master/2490-circular-sentence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/somnath202/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/somnath202/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/somnath202/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
