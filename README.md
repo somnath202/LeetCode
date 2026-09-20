@@ -115,6 +115,7 @@
 | [0942-di-string-match](https://github.com/somnath202/LeetCode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/somnath202/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/somnath202/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/somnath202/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -419,6 +420,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/somnath202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/somnath202/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/somnath202/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/somnath202/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somnath202/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/somnath202/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
