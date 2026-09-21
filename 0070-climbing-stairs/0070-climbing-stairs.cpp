@@ -10,6 +10,14 @@ public:
     }
     int climbStairs(int n) {
         vector<int>dp(n+1,0);
-        return  help(n,dp);
+        // return  help(n,dp);
+        if(n==1) return 1 ;
+        int x = 1 , y = 1 ;
+        for(int i = 2 ; i <=n ; i++){
+            int temp = x ;
+            x += y ;
+            y = temp ;
+        }
+        return x ;
     }
 };
