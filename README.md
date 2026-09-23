@@ -59,6 +59,7 @@
 | [0392-is-subsequence](https://github.com/somnath202/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/somnath202/LeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/somnath202/LeetCode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/somnath202/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/somnath202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/somnath202/LeetCode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0835-image-overlap](https://github.com/somnath202/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/somnath202/LeetCode/tree/master/0877-stone-game) |
