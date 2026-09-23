@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
+        //copy
         int n = nums.size();
         int total = accumulate(nums.begin(), nums.end(), 0);
         int target = total - x;
