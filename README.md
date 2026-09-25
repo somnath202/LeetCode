@@ -193,6 +193,7 @@
 | [0242-valid-anagram](https://github.com/somnath202/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/somnath202/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/somnath202/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/somnath202/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -304,6 +305,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/somnath202/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/somnath202/LeetCode/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/somnath202/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/somnath202/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/somnath202/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/somnath202/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -337,6 +339,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/somnath202/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/somnath202/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/somnath202/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/somnath202/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/somnath202/LeetCode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/somnath202/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -420,6 +423,7 @@
 | [0994-rotting-oranges](https://github.com/somnath202/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/somnath202/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/somnath202/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/somnath202/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1631-path-with-minimum-effort](https://github.com/somnath202/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/somnath202/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/somnath202/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -483,6 +487,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/somnath202/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/somnath202/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/somnath202/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -722,6 +727,7 @@
 | [0078-subsets](https://github.com/somnath202/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/somnath202/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/somnath202/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [1096-brace-expansion-ii](https://github.com/somnath202/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/somnath202/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dijkstra's Algorithm
 |  |
