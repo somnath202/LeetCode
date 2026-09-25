@@ -20,17 +20,24 @@ public:
 
         if(n == 1) return nums[0];
         if(n == 2) return max(nums[0],nums[1]);
-        dp[0] = nums[0] ;
-        dp[1] = nums[1] ;
-        int max1 = nums[0] , max2 = nums[1];
-        for(int i = 2 ; i< n ; i++){
-            int f = nums[i] + max1 ;
-            int s = max2 ;
-            dp[i] = max(f,s);
-            max1 = max(max1 , max2);
-            max2 = max(max2 , dp[i]);
+        // dp[0] = nums[0] ;
+        // dp[1] = nums[1] ;
+         int max1 = nums[0] , max2 = nums[1];
+        // for(int i = 2 ; i< n ; i++){
+        //     int f = nums[i] + max1 ;
+        //     int s = max2 ;
+        //     dp[i] = max(f,s);
+        //     max1 = max(max1 , max2);
+        //     max2 = max(max2 , dp[i]);
+        // }
+        // for(auto it : dp) cout<<it<<" ";
+        // return dp[n-1];
+
+        for(int i = 2 ; i < n ; i++){
+            int temp = max2 ;
+            max2 = max(nums[i]+max1 , max2);
+            max1 = max(max1,temp);
         }
-        for(auto it : dp) cout<<it<<" ";
-        return dp[n-1];
+        return max2 ;
     }
 };
