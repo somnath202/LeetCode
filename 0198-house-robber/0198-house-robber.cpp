@@ -22,7 +22,7 @@ public:
         if(n == 2) return max(nums[0],nums[1]);
         // dp[0] = nums[0] ;
         // dp[1] = nums[1] ;
-         int max1 = nums[0] , max2 = nums[1];
+        //  int max1 = nums[0] , max2 = nums[1];
         // for(int i = 2 ; i< n ; i++){
         //     int f = nums[i] + max1 ;
         //     int s = max2 ;
@@ -33,6 +33,7 @@ public:
         // for(auto it : dp) cout<<it<<" ";
         // return dp[n-1];
 
+        int max1 = nums[0] , max2 = nums[1];
         for(int i = 2 ; i < n ; i++){
             int temp = max2 ;
             max2 = max(nums[i]+max1 , max2);
