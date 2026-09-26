@@ -47,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/somnath202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
@@ -330,6 +331,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somnath202/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/somnath202/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/somnath202/LeetCode/tree/master/0127-word-ladder) |
@@ -727,6 +729,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/somnath202/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/somnath202/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/somnath202/LeetCode/tree/master/0078-subsets) |
@@ -782,4 +785,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/somnath202/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
