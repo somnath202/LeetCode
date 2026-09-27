@@ -732,6 +732,7 @@
 | [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/somnath202/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/somnath202/LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/somnath202/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/somnath202/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/somnath202/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/somnath202/LeetCode/tree/master/0131-palindrome-partitioning) |
