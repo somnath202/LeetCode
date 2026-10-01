@@ -335,6 +335,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somnath202/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/somnath202/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/somnath202/LeetCode/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/somnath202/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -494,6 +495,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/somnath202/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/somnath202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -795,5 +797,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/somnath202/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
