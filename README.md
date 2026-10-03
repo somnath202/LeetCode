@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/somnath202/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/somnath202/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/somnath202/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/somnath202/LeetCode/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@
 | [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/somnath202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/somnath202/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/somnath202/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/somnath202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/somnath202/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somnath202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -677,6 +679,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/somnath202/LeetCode/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/somnath202/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/somnath202/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/somnath202/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
