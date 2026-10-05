@@ -349,6 +349,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/somnath202/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0761-special-binary-string](https://github.com/somnath202/LeetCode/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/somnath202/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0856-score-of-parentheses](https://github.com/somnath202/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/somnath202/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/somnath202/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -502,6 +503,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnath202/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/somnath202/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/somnath202/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/somnath202/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/somnath202/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -802,4 +804,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/somnath202/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/somnath202/LeetCode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/somnath202/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
